@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.JustJava" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+<!--        App branding color  -->
+        <item name="colorPrimary">#009688</item>
+<!--        Darker Varient of color  -->
+        <item name="colorPrimaryDark">#00796B</item>
+<!--        Control over views like textview and checkboxes  -->
+        <item name="colorAccent">#536DEF</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+<style name="Custom">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">48dp</item>
+    <item name="android:gravity">center_vertical</item>
+    <item name="android:textAllCaps">false</item>
+    <item name="android:textSize">20sp</item>
+
+</style>
+
+</resources>
